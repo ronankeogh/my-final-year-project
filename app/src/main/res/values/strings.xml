@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">FYP_Version_1</string>
+    <string name="CustomerName">Customer Name</string>
+    <string name="CustomerEmail">Customer Email</string>
+    <string name="CustomerPhoneNumber">Phone Number</string>
+    <string name="CustomerAge">Age</string>
+    <string name="PubName">Pub  Name</string>
+    <string name="PubEmail">Pub Email</string>
+    <string name="PubPhoneNumber">Pub Phone Number</string>
+    <string name="OccupancyLimit">Occupany Limit</string>
+    <string name="PubZipCode">Pub Zip Code</string>
+    <string name="AgeLimit">Age Limit</string>
+    <string name="OutdoorSeating">Outdoor Seating</string>
+    <string name="WalkInFriendly">Walk In Friendly</string>
+    <string name="CancellationFee">Cancellation Fee</string>
 </resources>
